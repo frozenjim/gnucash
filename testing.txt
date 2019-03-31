@@ -1,1 +1,3 @@
-Adding a line with nano - in what APPEARS to be a blank file.  (in spite of that earlier edit in GitHub).
+Adding a line with nano - in what APPEARS to be a blank file.  (in spite of that earlier edit in GitHub
+Adding a line to the file from GitHub (this oughta mess things up).
+
